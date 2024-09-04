@@ -1,0 +1,420 @@
+{
+  "users": [
+    {
+      "username": "Mark Juno",
+      "id": 1
+    },
+    {
+      "username": "Aslan Lino",
+      "id": 2
+    },
+    {
+      "username": "Halima Pepero",
+      "id": 3
+    },
+    {
+      "username": "Amina Bisu",
+      "id": 4
+    },
+    {
+      "username": "Amir Rimskiy",
+      "id": 5
+    },
+    {
+      "username": "Robin Gud",
+      "id": 6
+    },
+    {
+      "username": "AMA Kama",
+      "id": 7
+    },
+    {
+      "username": "Viktor Nikolaevich",
+      "id": 8
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "message_id": 1,
+      "user_id": 1,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 10:35:00",
+      "message": "Hello, how are you? Can you help me?"
+    },
+    {
+      "id": 2,
+      "message_id": 2,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2023-08-21, 10:37:00",
+      "message": "Sure, what do you need help with?"
+    },
+    {
+      "id": 3,
+      "message_id": 3,
+      "user_id": 2,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 11:00:00",
+      "message": "Hey, do you have the new book?"
+    },
+    {
+      "id": 4,
+      "message_id": 4,
+      "user_id": 9,
+      "recipient_id": 2,
+      "timestamp": "2023-08-21, 11:05:00",
+      "message": "Yes, I do. I'll bring it to you later."
+    },
+    {
+      "id": 5,
+      "message_id": 5,
+      "user_id": 3,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 12:00:00",
+      "message": "Can you review my report?"
+    },
+    {
+      "id": 6,
+      "message_id": 6,
+      "user_id": 9,
+      "recipient_id": 3,
+      "timestamp": "2023-08-21, 12:10:00",
+      "message": "Sure, I'll look at it and give you feedback."
+    },
+    {
+      "id": 7,
+      "message_id": 7,
+      "user_id": 4,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 13:15:00",
+      "message": "Are you joining the meeting at 3 PM?"
+    },
+    {
+      "id": 8,
+      "message_id": 8,
+      "user_id": 9,
+      "recipient_id": 4,
+      "timestamp": "2023-08-21, 13:20:00",
+      "message": "Yes, I'll be there."
+    },
+    {
+      "id": 9,
+      "message_id": 9,
+      "user_id": 5,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 14:30:00",
+      "message": "I need your input on the design."
+    },
+    {
+      "id": 10,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2024-09-04T19:01:50.816Z",
+      "message": "vtbt"
+    },
+    {
+      "id": 11,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2024-09-04T19:01:55.013Z",
+      "message": "btbt"
+    },
+    {
+      "id": 12,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2024-09-04T19:01:59.435Z",
+      "message": "btbt"
+    },
+    {
+      "id": 13,
+      "user_id": 9,
+      "recipient_id": 6,
+      "timestamp": "2024-09-04T19:03:46.154Z",
+      "message": "ynny"
+    },
+    {
+      "id": 14,
+      "user_id": 9,
+      "recipient_id": 6,
+      "timestamp": "2024-09-04T19:03:49.589Z",
+      "message": "nyy"
+    },
+    {
+      "id": 10,
+      "message_id": 10,
+      "user_id": 9,
+      "recipient_id": 5,
+      "timestamp": "2023-08-21, 14:35:00",
+      "message": "Sure, I'll send you my thoughts by the end of the day."
+    },
+    {
+      "id": 11,
+      "message_id": 11,
+      "user_id": 6,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 15:45:00",
+      "message": "Can you check the budget proposal?"
+    },
+    {
+      "id": 12,
+      "message_id": 12,
+      "user_id": 9,
+      "recipient_id": 6,
+      "timestamp": "2023-08-21, 15:50:00",
+      "message": "Absolutely, I'll review it this evening."
+    },
+    {
+      "id": 13,
+      "message_id": 13,
+      "user_id": 7,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 16:10:00",
+      "message": "Are you available for a quick call tomorrow?"
+    },
+    {
+      "id": 14,
+      "message_id": 14,
+      "user_id": 9,
+      "recipient_id": 7,
+      "timestamp": "2023-08-21, 16:15:00",
+      "message": "Yes, let's schedule it for 10 AM."
+    },
+    {
+      "id": 15,
+      "message_id": 15,
+      "user_id": 8,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 17:00:00",
+      "message": "I won't be able to attend the meeting."
+    },
+    {
+      "id": 16,
+      "message_id": 16,
+      "user_id": 9,
+      "recipient_id": 8,
+      "timestamp": "2023-08-21, 17:05:00",
+      "message": "No worries, I'll share the meeting notes with you."
+    },
+    {
+      "id": 17,
+      "message_id": 17,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2023-08-21, 18:00:00",
+      "message": "Thanks for your help earlier!"
+    },
+    {
+      "id": 18,
+      "message_id": 18,
+      "user_id": 1,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 18:05:00",
+      "message": "You're welcome! Let me know if you need anything else."
+    },
+    {
+      "id": 19,
+      "message_id": 19,
+      "user_id": 9,
+      "recipient_id": 2,
+      "timestamp": "2023-08-21, 18:30:00",
+      "message": "I'll drop by with the book tomorrow."
+    },
+    {
+      "id": 20,
+      "message_id": 20,
+      "user_id": 2,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 18:35:00",
+      "message": "Great, looking forward to it!"
+    },
+    {
+      "id": 21,
+      "message_id": 21,
+      "user_id": 9,
+      "recipient_id": 3,
+      "timestamp": "2023-08-21, 19:00:00",
+      "message": "I reviewed your report, it's looking good."
+    },
+    {
+      "id": 22,
+      "message_id": 22,
+      "user_id": 3,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 19:05:00",
+      "message": "Thanks, Markha! Appreciate your feedback."
+    },
+    {
+      "id": 23,
+      "message_id": 23,
+      "user_id": 9,
+      "recipient_id": 4,
+      "timestamp": "2023-08-21, 20:00:00",
+      "message": "See you at the meeting tomorrow."
+    },
+    {
+      "id": 24,
+      "message_id": 24,
+      "user_id": 4,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 20:05:00",
+      "message": "See you there!"
+    },
+    {
+      "id": 25,
+      "message_id": 25,
+      "user_id": 9,
+      "recipient_id": 5,
+      "timestamp": "2023-08-21, 21:00:00",
+      "message": "I've sent my thoughts on the design."
+    },
+    {
+      "id": 26,
+      "message_id": 26,
+      "user_id": 5,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 21:05:00",
+      "message": "Got it, thanks!"
+    },
+    {
+      "id": 27,
+      "message_id": 27,
+      "user_id": 9,
+      "recipient_id": 6,
+      "timestamp": "2023-08-21, 22:00:00",
+      "message": "The budget proposal looks good to me."
+    },
+    {
+      "id": 28,
+      "message_id": 28,
+      "user_id": 6,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 22:05:00",
+      "message": "Thanks, Markha!"
+    },
+    {
+      "id": 29,
+      "message_id": 29,
+      "user_id": 9,
+      "recipient_id": 7,
+      "timestamp": "2023-08-21, 23:00:00",
+      "message": "Looking forward to our call tomorrow."
+    },
+    {
+      "id": 30,
+      "message_id": 30,
+      "user_id": 7,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 23:05:00",
+      "message": "Me too, see you then!"
+    },
+    {
+      "id": 31,
+      "message_id": 31,
+      "user_id": 9,
+      "recipient_id": 8,
+      "timestamp": "2023-08-21, 23:30:00",
+      "message": "I'll send the meeting notes once the meeting is done."
+    },
+    {
+      "id": 32,
+      "message_id": 32,
+      "user_id": 8,
+      "recipient_id": 9,
+      "timestamp": "2023-08-21, 23:35:00",
+      "message": "Thanks, I appreciate it!"
+    },
+    {
+      "id": 33,
+      "user_id": 9,
+      "recipient_id": 5,
+      "timestamp": "2024-09-04T19:05:32.584Z",
+      "message": "rebbe"
+    },
+    {
+      "id": 34,
+      "user_id": 9,
+      "recipient_id": 5,
+      "timestamp": "2024-09-04T19:05:36.608Z",
+      "message": "ebrr"
+    },
+    {
+      "id": 35,
+      "user_id": 9,
+      "recipient_id": 5,
+      "timestamp": "2024-09-04T19:05:40.136Z",
+      "message": "re"
+    },
+    {
+      "id": 36,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2024-09-04T19:08:43.856Z",
+      "message": "ykyl"
+    },
+    {
+      "id": 37,
+      "user_id": 9,
+      "recipient_id": 3,
+      "timestamp": "2024-09-04T19:09:14.349Z",
+      "message": "nlln"
+    },
+    {
+      "id": 38,
+      "user_id": 9,
+      "recipient_id": 8,
+      "timestamp": "2024-09-04T19:11:46.827Z",
+      "message": "m;l"
+    },
+    {
+      "id": 39,
+      "user_id": 9,
+      "recipient_id": 6,
+      "timestamp": "2024-09-04T19:12:23.672Z",
+      "message": "tbe"
+    },
+    {
+      "id": 40,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2024-09-04T19:17:19.717Z",
+      "message": "effew"
+    },
+    {
+      "id": 41,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2024-09-04T19:17:31.471Z",
+      "message": "fewew"
+    },
+    {
+      "id": 42,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2024-09-04T19:19:13.538Z",
+      "message": "wdw"
+    },
+    {
+      "id": 43,
+      "user_id": 9,
+      "recipient_id": 4,
+      "timestamp": "2024-09-04T19:19:20.508Z",
+      "message": "dqwdq"
+    },
+    {
+      "id": 44,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2024-09-04T19:20:25.834Z",
+      "message": "nlm"
+    },
+    {
+      "id": 45,
+      "user_id": 9,
+      "recipient_id": 1,
+      "timestamp": "2024-09-04T19:22:40.849Z",
+      "message": "xwx"
+    }
+  ]
+}
